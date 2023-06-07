@@ -8,4 +8,6 @@
 
 - ⚡ Fun fact **i copy code so much⚡⚡**
 
-- 🌱 I’m currently learning **C#,Nodejs,Flutter,Java,react native**
+- 🌱 This project is Try code Bot Discord first time
+
+- 🌱 This project completed
