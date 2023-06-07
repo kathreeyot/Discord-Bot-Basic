@@ -11,3 +11,5 @@
 - 🌱 This project is Try code Bot Discord first time
 
 - 🌱 This project is completed
+
+- 🌱 This project use Python
